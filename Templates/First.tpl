@@ -1,0 +1,1 @@
+<a href="newindex.php?view=keywords">Ключевые слова</a>

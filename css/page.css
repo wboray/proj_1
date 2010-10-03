@@ -1,0 +1,35 @@
+body {
+    font-family:arial;
+    font-size:10pt;
+    color: #333;
+}
+
+table {
+    border-collapse: collapse;
+    width: 900px;
+}
+table td {
+    border: 1px solid #ccc;
+    font-size:10pt;
+    text-align: left;
+    padding:3px;
+
+}
+
+table th {
+    border: 1px solid #ccc;
+    border-collapse: separate;
+    font-size:10pt;
+    text-align: left;
+    padding:3px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.null_table {
+    color:#80a6ae;
+    text-align: center;
+    padding: 10px 0;
+    font-style: italic;
+    font-size: 1.1 em;
+}
